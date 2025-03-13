@@ -1,0 +1,41 @@
+Basic Editing:
+
+Copy line: Ctrl + C
+Cut line: Ctrl + X
+Paste: Ctrl + V
+Undo: Ctrl + Z
+Redo: Ctrl + Y
+Navigation:
+
+Open file: Ctrl + P
+Go to line: Ctrl + G
+Switch between editor tabs: Ctrl + Tab
+Jump to definition: F12
+Go back: Alt + ←
+Search and Replace:
+
+Search: Ctrl + F
+Replace: Ctrl + H
+Search across files: Ctrl + Shift + F
+Code Formatting:
+
+Format document: Shift + Alt + F
+Format selection: Ctrl + K Ctrl + F
+Multi-Cursor:
+
+Add cursor above/below: Alt + Click or Ctrl + Alt + Up/Down Arrow
+Select all occurrences of current selection: Ctrl + Shift + L
+Command Palette:
+
+Open Command Palette: Ctrl + Shift + P (This gives you access to various commands without navigating through menus)
+Terminal Shortcuts:
+
+Open terminal: `Ctrl + `` (the key below Esc)
+Create new terminal: `Ctrl + Shift + ``
+Commenting Code:
+
+Toggle line comment: Ctrl + /
+Toggle block comment: Shift + Alt + A
+********************************
+*******************************888
+https://www.youtube.com/watch?v=KZ5kmrynP1Q
