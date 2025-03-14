@@ -37,7 +37,7 @@ Chronic heart failure is a serious condition affecting many lives worldwide. The
 6. **Make Predictions:** Upload a heart sound file, and the system classifies it as **normal** or **abnormal**.
 
 ## **Screenshots / UI Preview**
-(Add screenshots or UI links here)
+![Screenshot 1](https://github.com/user-attachments/assets/15e15cd1-9b06-4246-a8c6-21005c5de42d)
 
 ## **Future Enhancements**
 - Improve accuracy using additional feature extraction techniques.
